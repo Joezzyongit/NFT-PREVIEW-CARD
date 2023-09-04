@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://joezzyongit.github.io/NFT-PREVIEW-CARD/)
-- Live Site URL: [Add live site URL here](https://joezzyongit.github.io/NFT-PREVIEW-CARD/)
+- Solution URL: [Solution URL](https://joezzyongit.github.io/NFT-PREVIEW-CARD/)
+- Live Site URL: [Live site URL](https://joezzyongit.github.io/NFT-PREVIEW-CARD/)
 
 ## My process
   It was hard for me at first to figure out how to display the hidden picture with the centered eye 
