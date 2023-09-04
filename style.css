@@ -173,9 +173,4 @@ footer{
     footer{
         display: none;
     }
-
-    section{
-        display: flex;
-        overflow: hidden;
-    }
 }
